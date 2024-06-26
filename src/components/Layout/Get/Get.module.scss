@@ -1,0 +1,56 @@
+.Get {
+    background: url("../../../assets/Vector\ 1.png") no-repeat center/cover;
+    padding-top: 40px;
+  .action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .Get_text {
+      h1 {
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size: clamp(10px, 3wv, 50.76px);
+        font-weight: 100;
+        line-height: 66px;
+        letter-spacing: 0%;
+        text-align: left;
+      }
+      p {
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size:clamp(8px, 4wv , 15.25px);
+        font-weight: 400;
+        line-height: 22px;
+        letter-spacing: 0%;
+        text-align: left;
+        margin-top: 18px;
+      }
+      button {
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 22px;
+        letter-spacing: 0%;
+        text-align: center;
+        padding: 8px 20px;
+        box-sizing: border-box;
+        border: 1px solid rgba(171, 163, 163, 0.2);
+        border-radius: 4px;
+        margin-top: 38px;
+
+        background: rgb(121, 138, 201);
+      }
+    }
+    .Get_img {
+      .img {
+        position: relative;
+      }
+    }
+    img {
+      position: absolute;
+      top: 40;
+      right: 0;
+    }
+  }
+}

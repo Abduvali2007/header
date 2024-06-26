@@ -1,0 +1,48 @@
+.footer {
+  .content {
+    margin-top: 60px;
+    background: url("../../../assets/Rectangle\ 5.png") no-repeat;
+
+    .action {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 130px;
+      padding-top: 225px;
+      .text {
+        padding-top: 90px;
+        h1 {
+          font-family: Inter;
+          font-size: 40px;
+          font-weight: 100;
+          line-height: 128.6%;
+          letter-spacing: 10%;
+          text-align: left;
+          color: rgb(255, 255, 255);
+        }
+        p {
+          color: rgb(255, 255, 255);
+          font-family: Inter;
+          font-size: 16px;
+          font-weight: 700;
+          line-height: 128.6%;
+          letter-spacing: 4%;
+          text-align: left;
+          margin-top: 39px;
+        }
+      }
+      .block {
+        position: absolute;
+        width: 1101px;
+
+        height: 182px;
+        border-radius: 10px;
+
+        background: rgb(255, 255, 255);
+        bottom: 0;
+        top: 200px;
+      }
+    }
+  }
+}

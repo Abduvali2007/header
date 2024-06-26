@@ -1,0 +1,183 @@
+.avengers {
+  .content {
+    .imgs {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10%;
+      margin-top: 78px;
+      img {
+        color: rgb(153, 153, 153);
+      }
+    }
+    .Alls {
+      margin-top: 69px;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: center;
+      .All1 {
+        display: flex;
+        align-items: start;
+        gap: 150px;
+        padding: 33px 0;
+        .Text {
+          margin-top: 100px;
+          h4 {
+            color: rgb(226, 52, 52);
+            font-family: Inter;
+            font-size: 12.78px;
+            font-weight: 700;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+          }
+          h1 {
+            font-family: Inter;
+            font-size: 36.53px;
+            font-weight: 100;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+            color: rgb(133, 120, 133);
+            margin-top: 4px;
+          }
+          p {
+            margin-top: 4px;
+
+            color: rgb(133, 120, 133);
+            font-family: Inter;
+            font-size: 14.61px;
+            font-weight: 700;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+          }
+          button {
+            color: rgb(92, 14, 98);
+            font-family: Inter;
+            font-size: 18px;
+            font-weight: 100;
+            line-height: 22px;
+            letter-spacing: 0%;
+            text-align: left;
+            border: none;
+            background: transparent;
+            display: flex;
+            align-items: center;
+            margin-top: 17px;
+            gap: 10px;
+          }
+        }
+      }
+      .All2 {
+        display: flex;
+        align-items: start;
+        gap: 280px;
+        padding: 33px 0;
+        .Text {
+          margin-top: 100px;
+          h4 {
+            color: rgb(226, 52, 52);
+            font-family: Inter;
+            font-size: 12.78px;
+            font-weight: 700;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+          }
+          h1 {
+            font-family: Inter;
+            font-size: 36.53px;
+            font-weight: 100;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+            color: rgb(133, 120, 133);
+            margin-top: 4px;
+          }
+          p {
+            margin-top: 4px;
+
+            color: rgb(133, 120, 133);
+            font-family: Inter;
+            font-size: 14.61px;
+            font-weight: 700;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+          }
+          button {
+            color: rgb(92, 14, 98);
+            font-family: Inter;
+            font-size: 18px;
+            font-weight: 100;
+            line-height: 22px;
+            letter-spacing: 0%;
+            text-align: left;
+            border: none;
+            background: transparent;
+            display: flex;
+            align-items: center;
+            margin-top: 17px;
+            gap: 10px;
+          }
+        }
+      }
+      .All3 {
+        display: flex;
+        align-items: start;
+        gap: 140px;
+        padding: 33px 0;
+        .Text {
+          margin-top: 100px;
+          h4 {
+            color: rgb(226, 52, 52);
+            font-family: Inter;
+            font-size: 12.78px;
+            font-weight: 700;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+          }
+          h1 {
+            font-family: Inter;
+            font-size: 36.53px;
+            font-weight: 100;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+            color: rgb(133, 120, 133);
+            margin-top: 4px;
+          }
+          p {
+            margin-top: 4px;
+
+            color: rgb(133, 120, 133);
+            font-family: Inter;
+            font-size: 14.61px;
+            font-weight: 700;
+            line-height: 128.6%;
+            letter-spacing: 4%;
+            text-align: left;
+          }
+          button {
+            color: rgb(92, 14, 98);
+            font-family: Inter;
+            font-size: 18px;
+            font-weight: 100;
+            line-height: 22px;
+            letter-spacing: 0%;
+            text-align: left;
+            border: none;
+            background: transparent;
+            display: flex;
+            align-items: center;
+            margin-top: 17px;
+            gap: 10px;
+          }
+        }
+      }
+    }
+  }
+}
